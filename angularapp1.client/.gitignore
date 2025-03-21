@@ -1,57 +1,64 @@
-# 📌 ASP.NET & C# 相關忽略項目
+# Visual Studio 相關
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.tlog
+*.pdb
+*.opendb
+*.VC.db
+*.sln.docstates
+
+# 編譯輸出
 bin/
 obj/
-*.exe
-*.dll
-*.pdb
-*.user
-*.lock.json
-*.db
-*.suo
-*.userosscache
-*.sln.ide
-.vscode/
+out/
+Debug/
+Release/
+TestResults/
 
-# ASP.NET Core 檔案
-appsettings*.json
-!/appsettings.json   # 保留範本設定
+# ASP.NET 相關
+appsettings.Development.json
+appsettings.Local.json
 secrets.json
 .env
 
-# Entity Framework Migrations
-Migrations/
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
 
-# Rider / JetBrains
-.idea/
-*.sln.iml
-
-# 📌 Angular 相關忽略項目
+# npm / Angular 相關
 node_modules/
 dist/
-tmp/
-.out/
-.angular/
-.angular-cache/
+coverage/
+angular.json
+package-lock.json
+yarn.lock
+.npmrc
+.nvmrc
 
-# Angular build artifacts
-*.js
-*.js.map
+# TypeScript
 *.tsbuildinfo
 
-# TypeScript / npm
+# Log & IDE 設定
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-package-lock.json
-
-# Angular test coverage
-coverage/
-
-# 📌 IDE 相關忽略項目
+*.log
 .DS_Store
 Thumbs.db
-*.log
-*.swp
-*.bak
-*.tmp
-*.vs/
+
+# Git 相關
+.git/
+.gitignore
+.gitattributes
+.idea/
+*.iml
+
+# SonarQube
+.sonarqube/
+.eslintcache
+.vscode/
