@@ -15,7 +15,15 @@
 新增其他路由
 google 找login page html css codepen範本
 
+使用api login整合至login page 功能
+測試API
+hradmin@gmail.com
+112233
 
+app.config.ts設定api調用
+Angular asp.net沒有，
+新增environment.ts
+在import服務
 
 
 

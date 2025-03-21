@@ -10,6 +10,7 @@ import { EmployeeComponent } from './pages/employee/employee.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { ProjectComponent } from './pages/project/project.component';
 import { ProjectEmployeesComponent } from './pages/project-employees/project-employees.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,7 @@ import { ProjectEmployeesComponent } from './pages/project-employees/project-emp
     ProjectEmployeesComponent
   ],
   imports: [
-    BrowserModule, HttpClientModule,
+    BrowserModule, HttpClientModule, FormsModule,
     AppRoutingModule
   ],
   providers: [],
