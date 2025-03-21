@@ -37,3 +37,4 @@ C:\Users\Jay_Wu\Documents\GitHub\AngularApp1\AngularApp1.Server\obj\Debug\net8.0
 C:\Users\Jay_Wu\Documents\GitHub\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.pdb
 C:\Users\Jay_Wu\Documents\GitHub\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.genruntimeconfig.cache
 C:\Users\Jay_Wu\Documents\GitHub\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\ref\AngularApp1.Server.dll
+C:\Users\Jay_Wu\Documents\GitHub\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.sourcelink.json

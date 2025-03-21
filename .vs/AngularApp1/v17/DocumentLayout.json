@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\jay_wu\\documents\\github\\angularapp1\\angularapp1.client\\src\\app\\pages\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pages\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\jay_wu\\documents\\github\\angularapp1\\angularapp1.client\\src\\app\\pages\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\pages\\login\\login.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\jay_wu\\documents\\github\\angularapp1\\angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\jay_wu\\documents\\github\\angularapp1\\angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\jay_wu\\documents\\github\\angularapp1\\angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|c:\\users\\jay_wu\\documents\\github\\angularapp1\\angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7945F9CF-FB6C-4B59-86B9-9ADC1F7A3A8D}|angularapp1.client\\angularapp1.client.esproj|solutionrelative:angularapp1.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.component.css",
+              "DocumentMoniker": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\pages\\login\\login.component.css",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pages\\login\\login.component.css",
+              "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\pages\\login\\login.component.css",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pages\\login\\login.component.css",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T07:12:25.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\pages\\login\\login.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\pages\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\pages\\login\\login.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\pages\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T06:50:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T06:37:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-21T06:25:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-21T06:18:46.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Jay_Wu\\Documents\\GitHub\\AngularApp1\\angularapp1.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp1.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-21T06:13:50.496Z",
+              "EditorCaption": ""
             }
           ]
         }

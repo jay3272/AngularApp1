@@ -4,3 +4,13 @@
 建立layout組件
 建立employee組件
 建立dashboard組件
+建立project組件
+建立projectEmployee組件
+
+建立路由routes
+
+將app.component.html修改<router-outlet></router-outlet>
+
+完成將首頁預設login
+
+
