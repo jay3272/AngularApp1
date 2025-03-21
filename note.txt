@@ -1,0 +1,6 @@
+新增pages資料夾
+在終端機開啟
+建立login組件
+建立layout組件
+建立employee組件
+建立dashboard組件
