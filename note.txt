@@ -12,5 +12,11 @@
 將app.component.html修改<router-outlet></router-outlet>
 
 完成將首頁預設login
+新增其他路由
+google 找login page html css codepen範本
+
+
+
+
 
 
